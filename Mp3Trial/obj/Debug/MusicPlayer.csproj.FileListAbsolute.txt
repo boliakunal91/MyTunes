@@ -1,0 +1,391 @@
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\MusicPlayer-10112014_0620_RA\Mp3Trial\bin\Debug\Mp3Trial.exe.config
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\MusicPlayer-10112014_0620_RA\Mp3Trial\bin\Debug\Mp3Trial.exe
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\MusicPlayer-10112014_0620_RA\Mp3Trial\bin\Debug\Mp3Trial.pdb
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\MusicPlayer-10112014_0620_RA\Mp3Trial\bin\Debug\EntityFramework.dll
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\MusicPlayer-10112014_0620_RA\Mp3Trial\bin\Debug\EntityFramework.SqlServer.dll
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\MusicPlayer-10112014_0620_RA\Mp3Trial\bin\Debug\Mp3DAL.dll
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\MusicPlayer-10112014_0620_RA\Mp3Trial\bin\Debug\policy.2.0.taglib-sharp.dll
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\MusicPlayer-10112014_0620_RA\Mp3Trial\bin\Debug\taglib-sharp.dll
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\MusicPlayer-10112014_0620_RA\Mp3Trial\bin\Debug\Mp3DAL.pdb
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\MusicPlayer-10112014_0620_RA\Mp3Trial\bin\Debug\EntityFramework.xml
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\MusicPlayer-10112014_0620_RA\Mp3Trial\bin\Debug\EntityFramework.SqlServer.xml
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\MusicPlayer-10112014_0620_RA\Mp3Trial\bin\Debug\policy.2.0.taglib-sharp.config
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\MusicPlayer-10112014_0620_RA\Mp3Trial\obj\Debug\MusicPlayer.csprojResolveAssemblyReference.cache
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\MusicPlayer-10112014_0620_RA\Mp3Trial\obj\Debug\MainWindow.baml
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\MusicPlayer-10112014_0620_RA\Mp3Trial\obj\Debug\MainWindow.g.cs
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\MusicPlayer-10112014_0620_RA\Mp3Trial\obj\Debug\App.g.cs
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\MusicPlayer-10112014_0620_RA\Mp3Trial\obj\Debug\Mp3Trial_MarkupCompile.cache
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\MusicPlayer-10112014_0620_RA\Mp3Trial\obj\Debug\Mp3Trial.g.resources
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\MusicPlayer-10112014_0620_RA\Mp3Trial\obj\Debug\MusicPlayer.Properties.Resources.resources
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\MusicPlayer-10112014_0620_RA\Mp3Trial\obj\Debug\MusicPlayer.csproj.GenerateResource.Cache
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\MusicPlayer-10112014_0620_RA\Mp3Trial\obj\Debug\Mp3Trial.exe
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\MusicPlayer-10112014_0620_RA\Mp3Trial\obj\Debug\Mp3Trial.pdb
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\MusicPlayer-10152014_0755\Mp3Trial\bin\Debug\Mp3Trial.exe.config
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\MusicPlayer-10152014_0755\Mp3Trial\bin\Debug\Mp3Trial.exe
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\MusicPlayer-10152014_0755\Mp3Trial\bin\Debug\Mp3Trial.pdb
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\MusicPlayer-10152014_0755\Mp3Trial\bin\Debug\EntityFramework.dll
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\MusicPlayer-10152014_0755\Mp3Trial\bin\Debug\EntityFramework.SqlServer.dll
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\MusicPlayer-10152014_0755\Mp3Trial\bin\Debug\Mp3DAL.dll
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\MusicPlayer-10152014_0755\Mp3Trial\bin\Debug\policy.2.0.taglib-sharp.dll
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\MusicPlayer-10152014_0755\Mp3Trial\bin\Debug\taglib-sharp.dll
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\MusicPlayer-10152014_0755\Mp3Trial\bin\Debug\Mp3DAL.pdb
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\MusicPlayer-10152014_0755\Mp3Trial\bin\Debug\EntityFramework.xml
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\MusicPlayer-10152014_0755\Mp3Trial\bin\Debug\EntityFramework.SqlServer.xml
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\MusicPlayer-10152014_0755\Mp3Trial\bin\Debug\policy.2.0.taglib-sharp.config
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\MusicPlayer-10152014_0755\Mp3Trial\obj\Debug\MusicPlayer.csprojResolveAssemblyReference.cache
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\MusicPlayer-10152014_0755\Mp3Trial\obj\Debug\MainWindow.baml
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\MusicPlayer-10152014_0755\Mp3Trial\obj\Debug\MainWindow.g.cs
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\MusicPlayer-10152014_0755\Mp3Trial\obj\Debug\App.g.cs
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\MusicPlayer-10152014_0755\Mp3Trial\obj\Debug\Mp3Trial_MarkupCompile.cache
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\MusicPlayer-10152014_0755\Mp3Trial\obj\Debug\Mp3Trial.g.resources
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\MusicPlayer-10152014_0755\Mp3Trial\obj\Debug\MusicPlayer.Properties.Resources.resources
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\MusicPlayer-10152014_0755\Mp3Trial\obj\Debug\MusicPlayer.csproj.GenerateResource.Cache
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\MusicPlayer-10152014_0755\Mp3Trial\obj\Debug\Mp3Trial.exe
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\MusicPlayer-10152014_0755\Mp3Trial\obj\Debug\Mp3Trial.pdb
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\MusicPlayer-Final\Mp3Trial\bin\Debug\Mp3Trial.exe.config
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\MusicPlayer-Final\Mp3Trial\obj\Debug\Mp3Trial.exe
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\MusicPlayer-Final\Mp3Trial\obj\Debug\Mp3Trial.pdb
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\MusicPlayer-Final\Mp3Trial\bin\Debug\Mp3Trial.exe
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\MusicPlayer-Final\Mp3Trial\bin\Debug\Mp3Trial.pdb
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\MusicPlayer-Final\Mp3Trial\bin\Debug\EntityFramework.dll
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\MusicPlayer-Final\Mp3Trial\bin\Debug\EntityFramework.SqlServer.dll
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\MusicPlayer-Final\Mp3Trial\bin\Debug\Mp3DAL.dll
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\MusicPlayer-Final\Mp3Trial\bin\Debug\policy.2.0.taglib-sharp.dll
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\MusicPlayer-Final\Mp3Trial\bin\Debug\taglib-sharp.dll
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\MusicPlayer-Final\Mp3Trial\bin\Debug\Mp3DAL.pdb
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\MusicPlayer-Final\Mp3Trial\bin\Debug\EntityFramework.xml
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\MusicPlayer-Final\Mp3Trial\bin\Debug\EntityFramework.SqlServer.xml
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\MusicPlayer-Final\Mp3Trial\bin\Debug\policy.2.0.taglib-sharp.config
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\MusicPlayer-Final\Mp3Trial\obj\Debug\MusicPlayer.csprojResolveAssemblyReference.cache
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\MusicPlayer-Final\Mp3Trial\obj\Debug\MainWindow.baml
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\MusicPlayer-Final\Mp3Trial\obj\Debug\MainWindow.g.cs
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\MusicPlayer-Final\Mp3Trial\obj\Debug\App.g.cs
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\MusicPlayer-Final\Mp3Trial\obj\Debug\Mp3Trial_MarkupCompile.cache
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\MusicPlayer-Final\Mp3Trial\obj\Debug\Mp3Trial.g.resources
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\MusicPlayer-Final\Mp3Trial\obj\Debug\MusicPlayer.Properties.Resources.resources
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\MusicPlayer-Final\Mp3Trial\obj\Debug\MusicPlayer.csproj.GenerateResource.Cache
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MusicPlayer-Final\Mp3Trial\bin\Debug\Mp3Trial.exe.config
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MusicPlayer-Final\Mp3Trial\obj\Debug\Mp3Trial.exe
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MusicPlayer-Final\Mp3Trial\obj\Debug\Mp3Trial.pdb
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MusicPlayer-Final\Mp3Trial\bin\Debug\Mp3Trial.exe
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MusicPlayer-Final\Mp3Trial\bin\Debug\Mp3Trial.pdb
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MusicPlayer-Final\Mp3Trial\bin\Debug\EntityFramework.dll
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MusicPlayer-Final\Mp3Trial\bin\Debug\EntityFramework.SqlServer.dll
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MusicPlayer-Final\Mp3Trial\bin\Debug\Mp3DAL.dll
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MusicPlayer-Final\Mp3Trial\bin\Debug\policy.2.0.taglib-sharp.dll
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MusicPlayer-Final\Mp3Trial\bin\Debug\taglib-sharp.dll
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MusicPlayer-Final\Mp3Trial\bin\Debug\Mp3DAL.pdb
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MusicPlayer-Final\Mp3Trial\bin\Debug\EntityFramework.xml
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MusicPlayer-Final\Mp3Trial\bin\Debug\EntityFramework.SqlServer.xml
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MusicPlayer-Final\Mp3Trial\bin\Debug\policy.2.0.taglib-sharp.config
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MusicPlayer-Final\Mp3Trial\obj\Debug\MusicPlayer.csprojResolveAssemblyReference.cache
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MusicPlayer-Final\Mp3Trial\obj\Debug\MainWindow.baml
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MusicPlayer-Final\Mp3Trial\obj\Debug\MainWindow.g.cs
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MusicPlayer-Final\Mp3Trial\obj\Debug\App.g.cs
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MusicPlayer-Final\Mp3Trial\obj\Debug\Mp3Trial_MarkupCompile.cache
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MusicPlayer-Final\Mp3Trial\obj\Debug\Mp3Trial.g.resources
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MusicPlayer-Final\Mp3Trial\obj\Debug\MusicPlayer.Properties.Resources.resources
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MusicPlayer-Final\Mp3Trial\obj\Debug\MusicPlayer.csproj.GenerateResource.Cache
+C:\Users\Richard\Desktop\MusicPlayer- after playlist delete and other few things\MusicPlayer-Final\Mp3Trial\bin\Debug\Mp3Trial.exe.config
+C:\Users\Richard\Desktop\MusicPlayer- after playlist delete and other few things\MusicPlayer-Final\Mp3Trial\obj\Debug\Mp3Trial.exe
+C:\Users\Richard\Desktop\MusicPlayer- after playlist delete and other few things\MusicPlayer-Final\Mp3Trial\obj\Debug\Mp3Trial.pdb
+C:\Users\Richard\Desktop\MusicPlayer- after playlist delete and other few things\MusicPlayer-Final\Mp3Trial\bin\Debug\Mp3Trial.exe
+C:\Users\Richard\Desktop\MusicPlayer- after playlist delete and other few things\MusicPlayer-Final\Mp3Trial\bin\Debug\Mp3Trial.pdb
+C:\Users\Richard\Desktop\MusicPlayer- after playlist delete and other few things\MusicPlayer-Final\Mp3Trial\bin\Debug\EntityFramework.dll
+C:\Users\Richard\Desktop\MusicPlayer- after playlist delete and other few things\MusicPlayer-Final\Mp3Trial\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Richard\Desktop\MusicPlayer- after playlist delete and other few things\MusicPlayer-Final\Mp3Trial\bin\Debug\Mp3DAL.dll
+C:\Users\Richard\Desktop\MusicPlayer- after playlist delete and other few things\MusicPlayer-Final\Mp3Trial\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\Richard\Desktop\MusicPlayer- after playlist delete and other few things\MusicPlayer-Final\Mp3Trial\bin\Debug\taglib-sharp.dll
+C:\Users\Richard\Desktop\MusicPlayer- after playlist delete and other few things\MusicPlayer-Final\Mp3Trial\bin\Debug\Mp3DAL.pdb
+C:\Users\Richard\Desktop\MusicPlayer- after playlist delete and other few things\MusicPlayer-Final\Mp3Trial\bin\Debug\EntityFramework.xml
+C:\Users\Richard\Desktop\MusicPlayer- after playlist delete and other few things\MusicPlayer-Final\Mp3Trial\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Richard\Desktop\MusicPlayer- after playlist delete and other few things\MusicPlayer-Final\Mp3Trial\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\Richard\Desktop\MusicPlayer- after playlist delete and other few things\MusicPlayer-Final\Mp3Trial\obj\Debug\MusicPlayer.csprojResolveAssemblyReference.cache
+C:\Users\Richard\Desktop\MusicPlayer- after playlist delete and other few things\MusicPlayer-Final\Mp3Trial\obj\Debug\MainWindow.baml
+C:\Users\Richard\Desktop\MusicPlayer- after playlist delete and other few things\MusicPlayer-Final\Mp3Trial\obj\Debug\MainWindow.g.cs
+C:\Users\Richard\Desktop\MusicPlayer- after playlist delete and other few things\MusicPlayer-Final\Mp3Trial\obj\Debug\App.g.cs
+C:\Users\Richard\Desktop\MusicPlayer- after playlist delete and other few things\MusicPlayer-Final\Mp3Trial\obj\Debug\Mp3Trial_MarkupCompile.cache
+C:\Users\Richard\Desktop\MusicPlayer- after playlist delete and other few things\MusicPlayer-Final\Mp3Trial\obj\Debug\Mp3Trial.g.resources
+C:\Users\Richard\Desktop\MusicPlayer- after playlist delete and other few things\MusicPlayer-Final\Mp3Trial\obj\Debug\MusicPlayer.Properties.Resources.resources
+C:\Users\Richard\Desktop\MusicPlayer- after playlist delete and other few things\MusicPlayer-Final\Mp3Trial\obj\Debug\MusicPlayer.csproj.GenerateResource.Cache
+C:\Users\Richard\Desktop\MusicPlayer- after playlist delete and other few things\MusicPlayer-Final\Mp3Trial\obj\Debug\AddPlaylistDialog.baml
+C:\Users\Richard\Desktop\MusicPlayer- after playlist delete and other few things\MusicPlayer-Final\Mp3Trial\obj\Debug\AddPlaylistDialog.g.cs
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MPlayer_1109_735PM\MPlayer_1109_735PM\MusicPlayer-Final\Mp3Trial\bin\Debug\Mp3Trial.exe.config
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MPlayer_1109_735PM\MPlayer_1109_735PM\MusicPlayer-Final\Mp3Trial\obj\Debug\Mp3Trial.exe
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MPlayer_1109_735PM\MPlayer_1109_735PM\MusicPlayer-Final\Mp3Trial\obj\Debug\Mp3Trial.pdb
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MPlayer_1109_735PM\MPlayer_1109_735PM\MusicPlayer-Final\Mp3Trial\bin\Debug\Mp3Trial.exe
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MPlayer_1109_735PM\MPlayer_1109_735PM\MusicPlayer-Final\Mp3Trial\bin\Debug\Mp3Trial.pdb
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MPlayer_1109_735PM\MPlayer_1109_735PM\MusicPlayer-Final\Mp3Trial\bin\Debug\EntityFramework.dll
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MPlayer_1109_735PM\MPlayer_1109_735PM\MusicPlayer-Final\Mp3Trial\bin\Debug\EntityFramework.SqlServer.dll
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MPlayer_1109_735PM\MPlayer_1109_735PM\MusicPlayer-Final\Mp3Trial\bin\Debug\Mp3DAL.dll
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MPlayer_1109_735PM\MPlayer_1109_735PM\MusicPlayer-Final\Mp3Trial\bin\Debug\policy.2.0.taglib-sharp.dll
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MPlayer_1109_735PM\MPlayer_1109_735PM\MusicPlayer-Final\Mp3Trial\bin\Debug\taglib-sharp.dll
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MPlayer_1109_735PM\MPlayer_1109_735PM\MusicPlayer-Final\Mp3Trial\bin\Debug\Mp3DAL.pdb
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MPlayer_1109_735PM\MPlayer_1109_735PM\MusicPlayer-Final\Mp3Trial\bin\Debug\EntityFramework.xml
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MPlayer_1109_735PM\MPlayer_1109_735PM\MusicPlayer-Final\Mp3Trial\bin\Debug\EntityFramework.SqlServer.xml
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MPlayer_1109_735PM\MPlayer_1109_735PM\MusicPlayer-Final\Mp3Trial\bin\Debug\policy.2.0.taglib-sharp.config
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MPlayer_1109_735PM\MPlayer_1109_735PM\MusicPlayer-Final\Mp3Trial\obj\Debug\MusicPlayer.csprojResolveAssemblyReference.cache
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MPlayer_1109_735PM\MPlayer_1109_735PM\MusicPlayer-Final\Mp3Trial\obj\Debug\AddPlaylistDialog.baml
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MPlayer_1109_735PM\MPlayer_1109_735PM\MusicPlayer-Final\Mp3Trial\obj\Debug\MainWindow.baml
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MPlayer_1109_735PM\MPlayer_1109_735PM\MusicPlayer-Final\Mp3Trial\obj\Debug\AddPlaylistDialog.g.cs
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MPlayer_1109_735PM\MPlayer_1109_735PM\MusicPlayer-Final\Mp3Trial\obj\Debug\MainWindow.g.cs
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MPlayer_1109_735PM\MPlayer_1109_735PM\MusicPlayer-Final\Mp3Trial\obj\Debug\App.g.cs
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MPlayer_1109_735PM\MPlayer_1109_735PM\MusicPlayer-Final\Mp3Trial\obj\Debug\Mp3Trial_MarkupCompile.cache
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MPlayer_1109_735PM\MPlayer_1109_735PM\MusicPlayer-Final\Mp3Trial\obj\Debug\Mp3Trial.g.resources
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MPlayer_1109_735PM\MPlayer_1109_735PM\MusicPlayer-Final\Mp3Trial\obj\Debug\MusicPlayer.Properties.Resources.resources
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MPlayer_1109_735PM\MPlayer_1109_735PM\MusicPlayer-Final\Mp3Trial\obj\Debug\MusicPlayer.csproj.GenerateResource.Cache
+C:\Users\Richard\Desktop\MP_1110\MP_1110\MusicPlayer-Final\Mp3Trial\bin\Debug\Mp3Trial.exe.config
+C:\Users\Richard\Desktop\MP_1110\MP_1110\MusicPlayer-Final\Mp3Trial\obj\Debug\Mp3Trial.exe
+C:\Users\Richard\Desktop\MP_1110\MP_1110\MusicPlayer-Final\Mp3Trial\obj\Debug\Mp3Trial.pdb
+C:\Users\Richard\Desktop\MP_1110\MP_1110\MusicPlayer-Final\Mp3Trial\bin\Debug\Mp3Trial.exe
+C:\Users\Richard\Desktop\MP_1110\MP_1110\MusicPlayer-Final\Mp3Trial\bin\Debug\Mp3Trial.pdb
+C:\Users\Richard\Desktop\MP_1110\MP_1110\MusicPlayer-Final\Mp3Trial\bin\Debug\EntityFramework.dll
+C:\Users\Richard\Desktop\MP_1110\MP_1110\MusicPlayer-Final\Mp3Trial\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Richard\Desktop\MP_1110\MP_1110\MusicPlayer-Final\Mp3Trial\bin\Debug\Mp3DAL.dll
+C:\Users\Richard\Desktop\MP_1110\MP_1110\MusicPlayer-Final\Mp3Trial\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\Richard\Desktop\MP_1110\MP_1110\MusicPlayer-Final\Mp3Trial\bin\Debug\taglib-sharp.dll
+C:\Users\Richard\Desktop\MP_1110\MP_1110\MusicPlayer-Final\Mp3Trial\bin\Debug\Mp3DAL.pdb
+C:\Users\Richard\Desktop\MP_1110\MP_1110\MusicPlayer-Final\Mp3Trial\bin\Debug\EntityFramework.xml
+C:\Users\Richard\Desktop\MP_1110\MP_1110\MusicPlayer-Final\Mp3Trial\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Richard\Desktop\MP_1110\MP_1110\MusicPlayer-Final\Mp3Trial\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\Richard\Desktop\MP_1110\MP_1110\MusicPlayer-Final\Mp3Trial\obj\Debug\MusicPlayer.csprojResolveAssemblyReference.cache
+C:\Users\Richard\Desktop\MP_1110\MP_1110\MusicPlayer-Final\Mp3Trial\obj\Debug\AddPlaylistDialog.baml
+C:\Users\Richard\Desktop\MP_1110\MP_1110\MusicPlayer-Final\Mp3Trial\obj\Debug\MainWindow.baml
+C:\Users\Richard\Desktop\MP_1110\MP_1110\MusicPlayer-Final\Mp3Trial\obj\Debug\AddPlaylistDialog.g.cs
+C:\Users\Richard\Desktop\MP_1110\MP_1110\MusicPlayer-Final\Mp3Trial\obj\Debug\MainWindow.g.cs
+C:\Users\Richard\Desktop\MP_1110\MP_1110\MusicPlayer-Final\Mp3Trial\obj\Debug\App.g.cs
+C:\Users\Richard\Desktop\MP_1110\MP_1110\MusicPlayer-Final\Mp3Trial\obj\Debug\Mp3Trial_MarkupCompile.cache
+C:\Users\Richard\Desktop\MP_1110\MP_1110\MusicPlayer-Final\Mp3Trial\obj\Debug\Mp3Trial.g.resources
+C:\Users\Richard\Desktop\MP_1110\MP_1110\MusicPlayer-Final\Mp3Trial\obj\Debug\MusicPlayer.Properties.Resources.resources
+C:\Users\Richard\Desktop\MP_1110\MP_1110\MusicPlayer-Final\Mp3Trial\obj\Debug\MusicPlayer.csproj.GenerateResource.Cache
+C:\Users\Richard\Desktop\MP_1110_653PM\Mp3Trial\bin\Debug\Mp3Trial.exe.config
+C:\Users\Richard\Desktop\MP_1110_653PM\Mp3Trial\obj\Debug\Mp3Trial.exe
+C:\Users\Richard\Desktop\MP_1110_653PM\Mp3Trial\obj\Debug\Mp3Trial.pdb
+C:\Users\Richard\Desktop\MP_1110_653PM\Mp3Trial\bin\Debug\Mp3Trial.exe
+C:\Users\Richard\Desktop\MP_1110_653PM\Mp3Trial\bin\Debug\Mp3Trial.pdb
+C:\Users\Richard\Desktop\MP_1110_653PM\Mp3Trial\bin\Debug\EntityFramework.dll
+C:\Users\Richard\Desktop\MP_1110_653PM\Mp3Trial\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Richard\Desktop\MP_1110_653PM\Mp3Trial\bin\Debug\Mp3DAL.dll
+C:\Users\Richard\Desktop\MP_1110_653PM\Mp3Trial\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\Richard\Desktop\MP_1110_653PM\Mp3Trial\bin\Debug\taglib-sharp.dll
+C:\Users\Richard\Desktop\MP_1110_653PM\Mp3Trial\bin\Debug\Mp3DAL.pdb
+C:\Users\Richard\Desktop\MP_1110_653PM\Mp3Trial\bin\Debug\EntityFramework.xml
+C:\Users\Richard\Desktop\MP_1110_653PM\Mp3Trial\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Richard\Desktop\MP_1110_653PM\Mp3Trial\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\Richard\Desktop\MP_1110_653PM\Mp3Trial\obj\Debug\MusicPlayer.csprojResolveAssemblyReference.cache
+C:\Users\Richard\Desktop\MP_1110_653PM\Mp3Trial\obj\Debug\AddPlaylistDialog.baml
+C:\Users\Richard\Desktop\MP_1110_653PM\Mp3Trial\obj\Debug\MainWindow.baml
+C:\Users\Richard\Desktop\MP_1110_653PM\Mp3Trial\obj\Debug\AddPlaylistDialog.g.cs
+C:\Users\Richard\Desktop\MP_1110_653PM\Mp3Trial\obj\Debug\MainWindow.g.cs
+C:\Users\Richard\Desktop\MP_1110_653PM\Mp3Trial\obj\Debug\App.g.cs
+C:\Users\Richard\Desktop\MP_1110_653PM\Mp3Trial\obj\Debug\Mp3Trial_MarkupCompile.cache
+C:\Users\Richard\Desktop\MP_1110_653PM\Mp3Trial\obj\Debug\Mp3Trial.g.resources
+C:\Users\Richard\Desktop\MP_1110_653PM\Mp3Trial\obj\Debug\MusicPlayer.Properties.Resources.resources
+C:\Users\Richard\Desktop\MP_1110_653PM\Mp3Trial\obj\Debug\MusicPlayer.csproj.GenerateResource.Cache
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MP_1111_543\Mp3Trial\bin\Debug\Mp3Trial.exe.config
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MP_1111_543\Mp3Trial\obj\Debug\Mp3Trial.exe
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MP_1111_543\Mp3Trial\obj\Debug\Mp3Trial.pdb
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MP_1111_543\Mp3Trial\bin\Debug\Mp3Trial.exe
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MP_1111_543\Mp3Trial\bin\Debug\Mp3Trial.pdb
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MP_1111_543\Mp3Trial\bin\Debug\EntityFramework.dll
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MP_1111_543\Mp3Trial\bin\Debug\EntityFramework.SqlServer.dll
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MP_1111_543\Mp3Trial\bin\Debug\Mp3DAL.dll
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MP_1111_543\Mp3Trial\bin\Debug\policy.2.0.taglib-sharp.dll
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MP_1111_543\Mp3Trial\bin\Debug\taglib-sharp.dll
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MP_1111_543\Mp3Trial\bin\Debug\Mp3DAL.pdb
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MP_1111_543\Mp3Trial\bin\Debug\EntityFramework.xml
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MP_1111_543\Mp3Trial\bin\Debug\EntityFramework.SqlServer.xml
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MP_1111_543\Mp3Trial\bin\Debug\policy.2.0.taglib-sharp.config
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MP_1111_543\Mp3Trial\obj\Debug\MusicPlayer.csprojResolveAssemblyReference.cache
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MP_1111_543\Mp3Trial\obj\Debug\AddPlaylistDialog.baml
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MP_1111_543\Mp3Trial\obj\Debug\MainWindow.baml
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MP_1111_543\Mp3Trial\obj\Debug\AddPlaylistDialog.g.cs
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MP_1111_543\Mp3Trial\obj\Debug\MainWindow.g.cs
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MP_1111_543\Mp3Trial\obj\Debug\App.g.cs
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MP_1111_543\Mp3Trial\obj\Debug\Mp3Trial_MarkupCompile.cache
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MP_1111_543\Mp3Trial\obj\Debug\Mp3Trial.g.resources
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MP_1111_543\Mp3Trial\obj\Debug\MusicPlayer.Properties.Resources.resources
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MP_1111_543\Mp3Trial\obj\Debug\MusicPlayer.csproj.GenerateResource.Cache
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MP_Iteration2_final\Mp3Trial\bin\Debug\Mp3Trial.exe.config
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MP_Iteration2_final\Mp3Trial\obj\Debug\Mp3Trial.exe
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MP_Iteration2_final\Mp3Trial\obj\Debug\Mp3Trial.pdb
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MP_Iteration2_final\Mp3Trial\bin\Debug\Mp3Trial.exe
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MP_Iteration2_final\Mp3Trial\bin\Debug\Mp3Trial.pdb
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MP_Iteration2_final\Mp3Trial\bin\Debug\EntityFramework.dll
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MP_Iteration2_final\Mp3Trial\bin\Debug\EntityFramework.SqlServer.dll
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MP_Iteration2_final\Mp3Trial\bin\Debug\Mp3DAL.dll
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MP_Iteration2_final\Mp3Trial\bin\Debug\policy.2.0.taglib-sharp.dll
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MP_Iteration2_final\Mp3Trial\bin\Debug\taglib-sharp.dll
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MP_Iteration2_final\Mp3Trial\bin\Debug\Mp3DAL.pdb
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MP_Iteration2_final\Mp3Trial\bin\Debug\EntityFramework.xml
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MP_Iteration2_final\Mp3Trial\bin\Debug\EntityFramework.SqlServer.xml
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MP_Iteration2_final\Mp3Trial\bin\Debug\policy.2.0.taglib-sharp.config
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MP_Iteration2_final\Mp3Trial\obj\Debug\MusicPlayer.csprojResolveAssemblyReference.cache
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MP_Iteration2_final\Mp3Trial\obj\Debug\AddPlaylistDialog.baml
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MP_Iteration2_final\Mp3Trial\obj\Debug\MainWindow.baml
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MP_Iteration2_final\Mp3Trial\obj\Debug\AddPlaylistDialog.g.cs
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MP_Iteration2_final\Mp3Trial\obj\Debug\MainWindow.g.cs
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MP_Iteration2_final\Mp3Trial\obj\Debug\App.g.cs
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MP_Iteration2_final\Mp3Trial\obj\Debug\Mp3Trial_MarkupCompile.cache
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MP_Iteration2_final\Mp3Trial\obj\Debug\Mp3Trial.g.resources
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MP_Iteration2_final\Mp3Trial\obj\Debug\MusicPlayer.Properties.Resources.resources
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MP_Iteration2_final\Mp3Trial\obj\Debug\MusicPlayer.csproj.GenerateResource.Cache
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MP_Iteration2_final\Mp3Trial\obj\Debug\ConfirmDeletionDialog.baml
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MP_Iteration2_final\Mp3Trial\obj\Debug\ConfirmDeletionDialog.g.cs
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration2_final\Mp3Trial\bin\Debug\Mp3Trial.exe.config
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration2_final\Mp3Trial\obj\Debug\Mp3Trial.exe
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration2_final\Mp3Trial\obj\Debug\Mp3Trial.pdb
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration2_final\Mp3Trial\bin\Debug\Mp3Trial.exe
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration2_final\Mp3Trial\bin\Debug\Mp3Trial.pdb
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration2_final\Mp3Trial\bin\Debug\EntityFramework.dll
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration2_final\Mp3Trial\bin\Debug\EntityFramework.SqlServer.dll
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration2_final\Mp3Trial\bin\Debug\Mp3DAL.dll
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration2_final\Mp3Trial\bin\Debug\policy.2.0.taglib-sharp.dll
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration2_final\Mp3Trial\bin\Debug\taglib-sharp.dll
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration2_final\Mp3Trial\bin\Debug\Mp3DAL.pdb
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration2_final\Mp3Trial\bin\Debug\EntityFramework.xml
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration2_final\Mp3Trial\bin\Debug\EntityFramework.SqlServer.xml
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration2_final\Mp3Trial\bin\Debug\policy.2.0.taglib-sharp.config
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration2_final\Mp3Trial\obj\Debug\MusicPlayer.csprojResolveAssemblyReference.cache
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration2_final\Mp3Trial\obj\Debug\AddPlaylistDialog.baml
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration2_final\Mp3Trial\obj\Debug\ConfirmDeletionDialog.baml
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration2_final\Mp3Trial\obj\Debug\MainWindow.baml
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration2_final\Mp3Trial\obj\Debug\AddPlaylistDialog.g.cs
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration2_final\Mp3Trial\obj\Debug\ConfirmDeletionDialog.g.cs
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration2_final\Mp3Trial\obj\Debug\MainWindow.g.cs
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration2_final\Mp3Trial\obj\Debug\App.g.cs
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration2_final\Mp3Trial\obj\Debug\Mp3Trial_MarkupCompile.cache
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration2_final\Mp3Trial\obj\Debug\Mp3Trial.g.resources
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration2_final\Mp3Trial\obj\Debug\MusicPlayer.Properties.Resources.resources
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration2_final\Mp3Trial\obj\Debug\MusicPlayer.csproj.GenerateResource.Cache
+C:\Users\ccrlan1rra\Desktop\MP_Iteration3_1\MP_Iteration3_1\Mp3Trial\bin\Debug\Mp3Trial.exe.config
+C:\Users\ccrlan1rra\Desktop\MP_Iteration3_1\MP_Iteration3_1\Mp3Trial\obj\Debug\Mp3Trial.exe
+C:\Users\ccrlan1rra\Desktop\MP_Iteration3_1\MP_Iteration3_1\Mp3Trial\obj\Debug\Mp3Trial.pdb
+C:\Users\ccrlan1rra\Desktop\MP_Iteration3_1\MP_Iteration3_1\Mp3Trial\bin\Debug\Mp3Trial.exe
+C:\Users\ccrlan1rra\Desktop\MP_Iteration3_1\MP_Iteration3_1\Mp3Trial\bin\Debug\Mp3Trial.pdb
+C:\Users\ccrlan1rra\Desktop\MP_Iteration3_1\MP_Iteration3_1\Mp3Trial\bin\Debug\EntityFramework.dll
+C:\Users\ccrlan1rra\Desktop\MP_Iteration3_1\MP_Iteration3_1\Mp3Trial\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ccrlan1rra\Desktop\MP_Iteration3_1\MP_Iteration3_1\Mp3Trial\bin\Debug\Mp3DAL.dll
+C:\Users\ccrlan1rra\Desktop\MP_Iteration3_1\MP_Iteration3_1\Mp3Trial\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\ccrlan1rra\Desktop\MP_Iteration3_1\MP_Iteration3_1\Mp3Trial\bin\Debug\taglib-sharp.dll
+C:\Users\ccrlan1rra\Desktop\MP_Iteration3_1\MP_Iteration3_1\Mp3Trial\bin\Debug\Mp3DAL.pdb
+C:\Users\ccrlan1rra\Desktop\MP_Iteration3_1\MP_Iteration3_1\Mp3Trial\bin\Debug\EntityFramework.xml
+C:\Users\ccrlan1rra\Desktop\MP_Iteration3_1\MP_Iteration3_1\Mp3Trial\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ccrlan1rra\Desktop\MP_Iteration3_1\MP_Iteration3_1\Mp3Trial\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\ccrlan1rra\Desktop\MP_Iteration3_1\MP_Iteration3_1\Mp3Trial\obj\Debug\MusicPlayer.csprojResolveAssemblyReference.cache
+C:\Users\ccrlan1rra\Desktop\MP_Iteration3_1\MP_Iteration3_1\Mp3Trial\obj\Debug\AddPlaylistDialog.baml
+C:\Users\ccrlan1rra\Desktop\MP_Iteration3_1\MP_Iteration3_1\Mp3Trial\obj\Debug\ConfirmDeletionDialog.baml
+C:\Users\ccrlan1rra\Desktop\MP_Iteration3_1\MP_Iteration3_1\Mp3Trial\obj\Debug\MainWindow.baml
+C:\Users\ccrlan1rra\Desktop\MP_Iteration3_1\MP_Iteration3_1\Mp3Trial\obj\Debug\AddPlaylistDialog.g.cs
+C:\Users\ccrlan1rra\Desktop\MP_Iteration3_1\MP_Iteration3_1\Mp3Trial\obj\Debug\ConfirmDeletionDialog.g.cs
+C:\Users\ccrlan1rra\Desktop\MP_Iteration3_1\MP_Iteration3_1\Mp3Trial\obj\Debug\MainWindow.g.cs
+C:\Users\ccrlan1rra\Desktop\MP_Iteration3_1\MP_Iteration3_1\Mp3Trial\obj\Debug\App.g.cs
+C:\Users\ccrlan1rra\Desktop\MP_Iteration3_1\MP_Iteration3_1\Mp3Trial\obj\Debug\Mp3Trial_MarkupCompile.cache
+C:\Users\ccrlan1rra\Desktop\MP_Iteration3_1\MP_Iteration3_1\Mp3Trial\obj\Debug\Mp3Trial.g.resources
+C:\Users\ccrlan1rra\Desktop\MP_Iteration3_1\MP_Iteration3_1\Mp3Trial\obj\Debug\MusicPlayer.Properties.Resources.resources
+C:\Users\ccrlan1rra\Desktop\MP_Iteration3_1\MP_Iteration3_1\Mp3Trial\obj\Debug\MusicPlayer.csproj.GenerateResource.Cache
+C:\Users\Richard\Desktop\MP_Iteration3_1\Mp3Trial\bin\Debug\Mp3Trial.exe.config
+C:\Users\Richard\Desktop\MP_Iteration3_1\Mp3Trial\obj\Debug\Mp3Trial.exe
+C:\Users\Richard\Desktop\MP_Iteration3_1\Mp3Trial\obj\Debug\Mp3Trial.pdb
+C:\Users\Richard\Desktop\MP_Iteration3_1\Mp3Trial\bin\Debug\Mp3Trial.exe
+C:\Users\Richard\Desktop\MP_Iteration3_1\Mp3Trial\bin\Debug\Mp3Trial.pdb
+C:\Users\Richard\Desktop\MP_Iteration3_1\Mp3Trial\bin\Debug\EntityFramework.dll
+C:\Users\Richard\Desktop\MP_Iteration3_1\Mp3Trial\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Richard\Desktop\MP_Iteration3_1\Mp3Trial\bin\Debug\Mp3DAL.dll
+C:\Users\Richard\Desktop\MP_Iteration3_1\Mp3Trial\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\Richard\Desktop\MP_Iteration3_1\Mp3Trial\bin\Debug\taglib-sharp.dll
+C:\Users\Richard\Desktop\MP_Iteration3_1\Mp3Trial\bin\Debug\Mp3DAL.pdb
+C:\Users\Richard\Desktop\MP_Iteration3_1\Mp3Trial\bin\Debug\EntityFramework.xml
+C:\Users\Richard\Desktop\MP_Iteration3_1\Mp3Trial\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Richard\Desktop\MP_Iteration3_1\Mp3Trial\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\Richard\Desktop\MP_Iteration3_1\Mp3Trial\obj\Debug\MusicPlayer.csprojResolveAssemblyReference.cache
+C:\Users\Richard\Desktop\MP_Iteration3_1\Mp3Trial\obj\Debug\AddPlaylistDialog.baml
+C:\Users\Richard\Desktop\MP_Iteration3_1\Mp3Trial\obj\Debug\ConfirmDeletionDialog.baml
+C:\Users\Richard\Desktop\MP_Iteration3_1\Mp3Trial\obj\Debug\MainWindow.baml
+C:\Users\Richard\Desktop\MP_Iteration3_1\Mp3Trial\obj\Debug\AddPlaylistDialog.g.cs
+C:\Users\Richard\Desktop\MP_Iteration3_1\Mp3Trial\obj\Debug\ConfirmDeletionDialog.g.cs
+C:\Users\Richard\Desktop\MP_Iteration3_1\Mp3Trial\obj\Debug\MainWindow.g.cs
+C:\Users\Richard\Desktop\MP_Iteration3_1\Mp3Trial\obj\Debug\App.g.cs
+C:\Users\Richard\Desktop\MP_Iteration3_1\Mp3Trial\obj\Debug\Mp3Trial_MarkupCompile.cache
+C:\Users\Richard\Desktop\MP_Iteration3_1\Mp3Trial\obj\Debug\Mp3Trial.g.resources
+C:\Users\Richard\Desktop\MP_Iteration3_1\Mp3Trial\obj\Debug\MusicPlayer.Properties.Resources.resources
+C:\Users\Richard\Desktop\MP_Iteration3_1\Mp3Trial\obj\Debug\MusicPlayer.csproj.GenerateResource.Cache
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration3_3\Mp3Trial\bin\Debug\Mp3Trial.exe.config
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration3_3\Mp3Trial\obj\Debug\Mp3Trial.exe
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration3_3\Mp3Trial\obj\Debug\Mp3Trial.pdb
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration3_3\Mp3Trial\bin\Debug\Mp3Trial.exe
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration3_3\Mp3Trial\bin\Debug\Mp3Trial.pdb
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration3_3\Mp3Trial\bin\Debug\EntityFramework.dll
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration3_3\Mp3Trial\bin\Debug\EntityFramework.SqlServer.dll
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration3_3\Mp3Trial\bin\Debug\Mp3DAL.dll
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration3_3\Mp3Trial\bin\Debug\policy.2.0.taglib-sharp.dll
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration3_3\Mp3Trial\bin\Debug\taglib-sharp.dll
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration3_3\Mp3Trial\bin\Debug\Mp3DAL.pdb
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration3_3\Mp3Trial\bin\Debug\EntityFramework.xml
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration3_3\Mp3Trial\bin\Debug\EntityFramework.SqlServer.xml
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration3_3\Mp3Trial\bin\Debug\policy.2.0.taglib-sharp.config
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration3_3\Mp3Trial\obj\Debug\MusicPlayer.csprojResolveAssemblyReference.cache
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration3_3\Mp3Trial\obj\Debug\AddPlaylistDialog.baml
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration3_3\Mp3Trial\obj\Debug\ConfirmDeletionDialog.baml
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration3_3\Mp3Trial\obj\Debug\MainWindow.baml
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration3_3\Mp3Trial\obj\Debug\AddPlaylistDialog.g.cs
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration3_3\Mp3Trial\obj\Debug\ConfirmDeletionDialog.g.cs
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration3_3\Mp3Trial\obj\Debug\MainWindow.g.cs
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration3_3\Mp3Trial\obj\Debug\App.g.cs
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration3_3\Mp3Trial\obj\Debug\Mp3Trial_MarkupCompile.cache
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration3_3\Mp3Trial\obj\Debug\Mp3Trial.g.resources
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration3_3\Mp3Trial\obj\Debug\MusicPlayer.Properties.Resources.resources
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration3_3\Mp3Trial\obj\Debug\MusicPlayer.csproj.GenerateResource.Cache
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration3_4\Mp3Trial\obj\Debug\MusicPlayer.csprojResolveAssemblyReference.cache
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration3_4\Mp3Trial\obj\Debug\AddPlaylistDialog.baml
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration3_4\Mp3Trial\obj\Debug\ConfirmDeletionDialog.baml
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration3_4\Mp3Trial\obj\Debug\MainWindow.baml
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration3_4\Mp3Trial\obj\Debug\AddPlaylistDialog.g.cs
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration3_4\Mp3Trial\obj\Debug\ConfirmDeletionDialog.g.cs
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration3_4\Mp3Trial\obj\Debug\MainWindow.g.cs
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration3_4\Mp3Trial\obj\Debug\App.g.cs
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration3_4\Mp3Trial\obj\Debug\Mp3Trial_MarkupCompile.cache
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration3_4\Mp3Trial\obj\Debug\Mp3Trial.g.resources
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration3_4\Mp3Trial\obj\Debug\MusicPlayer.Properties.Resources.resources
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration3_4\Mp3Trial\obj\Debug\MusicPlayer.csproj.GenerateResource.Cache
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration3_4\Mp3Trial\bin\Debug\Mp3Trial.exe.config
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration3_4\Mp3Trial\bin\Debug\Mp3Trial.exe
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration3_4\Mp3Trial\bin\Debug\Mp3Trial.pdb
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration3_4\Mp3Trial\bin\Debug\EntityFramework.dll
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration3_4\Mp3Trial\bin\Debug\EntityFramework.SqlServer.dll
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration3_4\Mp3Trial\bin\Debug\Mp3DAL.dll
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration3_4\Mp3Trial\bin\Debug\policy.2.0.taglib-sharp.dll
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration3_4\Mp3Trial\bin\Debug\taglib-sharp.dll
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration3_4\Mp3Trial\bin\Debug\Mp3DAL.pdb
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration3_4\Mp3Trial\bin\Debug\EntityFramework.xml
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration3_4\Mp3Trial\bin\Debug\EntityFramework.SqlServer.xml
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration3_4\Mp3Trial\bin\Debug\policy.2.0.taglib-sharp.config
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration3_4\Mp3Trial\obj\Debug\Mp3Trial.exe
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration3_4\Mp3Trial\obj\Debug\Mp3Trial.pdb
+C:\Users\Richard\Desktop\MP_Iteration3_5\MP_Iteration3_5\Mp3Trial\bin\Debug\Mp3Trial.exe.config
+C:\Users\Richard\Desktop\MP_Iteration3_5\MP_Iteration3_5\Mp3Trial\obj\Debug\Mp3Trial.exe
+C:\Users\Richard\Desktop\MP_Iteration3_5\MP_Iteration3_5\Mp3Trial\obj\Debug\Mp3Trial.pdb
+C:\Users\Richard\Desktop\MP_Iteration3_5\MP_Iteration3_5\Mp3Trial\bin\Debug\Mp3Trial.exe
+C:\Users\Richard\Desktop\MP_Iteration3_5\MP_Iteration3_5\Mp3Trial\bin\Debug\Mp3Trial.pdb
+C:\Users\Richard\Desktop\MP_Iteration3_5\MP_Iteration3_5\Mp3Trial\bin\Debug\EntityFramework.dll
+C:\Users\Richard\Desktop\MP_Iteration3_5\MP_Iteration3_5\Mp3Trial\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Richard\Desktop\MP_Iteration3_5\MP_Iteration3_5\Mp3Trial\bin\Debug\Mp3DAL.dll
+C:\Users\Richard\Desktop\MP_Iteration3_5\MP_Iteration3_5\Mp3Trial\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\Richard\Desktop\MP_Iteration3_5\MP_Iteration3_5\Mp3Trial\bin\Debug\taglib-sharp.dll
+C:\Users\Richard\Desktop\MP_Iteration3_5\MP_Iteration3_5\Mp3Trial\bin\Debug\Mp3DAL.pdb
+C:\Users\Richard\Desktop\MP_Iteration3_5\MP_Iteration3_5\Mp3Trial\bin\Debug\EntityFramework.xml
+C:\Users\Richard\Desktop\MP_Iteration3_5\MP_Iteration3_5\Mp3Trial\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Richard\Desktop\MP_Iteration3_5\MP_Iteration3_5\Mp3Trial\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\Richard\Desktop\MP_Iteration3_5\MP_Iteration3_5\Mp3Trial\obj\Debug\MusicPlayer.csprojResolveAssemblyReference.cache
+C:\Users\Richard\Desktop\MP_Iteration3_5\MP_Iteration3_5\Mp3Trial\obj\Debug\AddPlaylistDialog.baml
+C:\Users\Richard\Desktop\MP_Iteration3_5\MP_Iteration3_5\Mp3Trial\obj\Debug\ConfirmDeletionDialog.baml
+C:\Users\Richard\Desktop\MP_Iteration3_5\MP_Iteration3_5\Mp3Trial\obj\Debug\MainWindow.baml
+C:\Users\Richard\Desktop\MP_Iteration3_5\MP_Iteration3_5\Mp3Trial\obj\Debug\AddPlaylistDialog.g.cs
+C:\Users\Richard\Desktop\MP_Iteration3_5\MP_Iteration3_5\Mp3Trial\obj\Debug\ConfirmDeletionDialog.g.cs
+C:\Users\Richard\Desktop\MP_Iteration3_5\MP_Iteration3_5\Mp3Trial\obj\Debug\MainWindow.g.cs
+C:\Users\Richard\Desktop\MP_Iteration3_5\MP_Iteration3_5\Mp3Trial\obj\Debug\App.g.cs
+C:\Users\Richard\Desktop\MP_Iteration3_5\MP_Iteration3_5\Mp3Trial\obj\Debug\Mp3Trial_MarkupCompile.cache
+C:\Users\Richard\Desktop\MP_Iteration3_5\MP_Iteration3_5\Mp3Trial\obj\Debug\Mp3Trial.g.resources
+C:\Users\Richard\Desktop\MP_Iteration3_5\MP_Iteration3_5\Mp3Trial\obj\Debug\MusicPlayer.Properties.Resources.resources
+C:\Users\Richard\Desktop\MP_Iteration3_5\MP_Iteration3_5\Mp3Trial\obj\Debug\MusicPlayer.csproj.GenerateResource.Cache
+C:\Users\Richard\Desktop\MP_Iteration3_5\MP_Iteration3_5\Mp3Trial\obj\Debug\Mp3Trial_MarkupCompile.lref

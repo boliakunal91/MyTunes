@@ -1,0 +1,19 @@
+C:\Users\hp\Documents\Visual Studio 2012\Projects\Mp3Trial\Mp3DAL\bin\Debug\Mp3DAL.dll.config
+C:\Users\hp\Documents\Visual Studio 2012\Projects\Mp3Trial\Mp3DAL\bin\Debug\Mp3DAL.dll
+C:\Users\hp\Documents\Visual Studio 2012\Projects\Mp3Trial\Mp3DAL\bin\Debug\Mp3DAL.pdb
+C:\Users\hp\Documents\Visual Studio 2012\Projects\Mp3Trial\Mp3DAL\bin\Debug\EntityFramework.dll
+C:\Users\hp\Documents\Visual Studio 2012\Projects\Mp3Trial\Mp3DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hp\Documents\Visual Studio 2012\Projects\Mp3Trial\Mp3DAL\bin\Debug\EntityFramework.xml
+C:\Users\hp\Documents\Visual Studio 2012\Projects\Mp3Trial\Mp3DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hp\Documents\Visual Studio 2012\Projects\Mp3Trial\Mp3DAL\obj\Debug\Mp3DAL.dll
+C:\Users\hp\Documents\Visual Studio 2012\Projects\Mp3Trial\Mp3DAL\obj\Debug\Mp3DAL.pdb
+C:\Users\hp\Documents\Visual Studio 2012\Projects\Mp3Trial\Mp3DAL\obj\Debug\Mp3DAL.csprojResolveAssemblyReference.cache
+C:\Users\Richard\Desktop\MusicPlayer-10102014_1130_RA-2014-10-10\MusicPlayer-10102014_1130_RA\Mp3DAL\bin\Debug\Mp3DAL.dll.config
+C:\Users\Richard\Desktop\MusicPlayer-10102014_1130_RA-2014-10-10\MusicPlayer-10102014_1130_RA\Mp3DAL\bin\Debug\Mp3DAL.dll
+C:\Users\Richard\Desktop\MusicPlayer-10102014_1130_RA-2014-10-10\MusicPlayer-10102014_1130_RA\Mp3DAL\bin\Debug\Mp3DAL.pdb
+C:\Users\Richard\Desktop\MusicPlayer-10102014_1130_RA-2014-10-10\MusicPlayer-10102014_1130_RA\Mp3DAL\bin\Debug\EntityFramework.dll
+C:\Users\Richard\Desktop\MusicPlayer-10102014_1130_RA-2014-10-10\MusicPlayer-10102014_1130_RA\Mp3DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Richard\Desktop\MusicPlayer-10102014_1130_RA-2014-10-10\MusicPlayer-10102014_1130_RA\Mp3DAL\bin\Debug\EntityFramework.xml
+C:\Users\Richard\Desktop\MusicPlayer-10102014_1130_RA-2014-10-10\MusicPlayer-10102014_1130_RA\Mp3DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Richard\Desktop\MusicPlayer-10102014_1130_RA-2014-10-10\MusicPlayer-10102014_1130_RA\Mp3DAL\obj\Debug\Mp3DAL.dll
+C:\Users\Richard\Desktop\MusicPlayer-10102014_1130_RA-2014-10-10\MusicPlayer-10102014_1130_RA\Mp3DAL\obj\Debug\Mp3DAL.pdb

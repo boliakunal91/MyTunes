@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="589c961d7cdd4be1b57c62174bd98bc9" Name="Diagram1" ZoomLevel="81">
+        <EntityTypeShape EntityType="MusicPlayerModel.sysdiagram" Width="1.5" PointX="4.25" PointY="4.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="MusicPlayerModel.tblMedia" Width="1.5" PointX="0.75" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="MusicPlayerModel.tblPlaylist" Width="1.5" PointX="6.25" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="MusicPlayerModel.tblPlaylistMapping" Width="1.5" PointX="3" PointY="1.625" IsExpanded="true" />
+        <AssociationConnector Association="MusicPlayerModel.FK_tblPlaylistMapping_tblMedia" ManuallyRouted="false" />
+        <AssociationConnector Association="MusicPlayerModel.FK_tblPlaylistMapping_tblPlaylist" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="MusicPlayerModel.tblHeaderSession" Width="1.5" PointX="8.4617200942997464" PointY="29.272802008908616" />
+        <EntityTypeShape EntityType="MusicPlayerModel.tblPlayLog" Width="1.5" PointX="1.875" PointY="5.75" />
+        <AssociationConnector Association="MusicPlayerModel.FK_tblPlayLog_tblMedia" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

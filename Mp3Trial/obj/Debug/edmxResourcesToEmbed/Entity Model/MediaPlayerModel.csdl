@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="MediaPlayerModel" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="MediaPlayerEntities" p1:LazyLoadingEnabled="true">
+    <EntitySet Name="tblMedias" EntityType="MediaPlayerModel.tblMedia" />
+    <EntitySet Name="tblPlaylists" EntityType="MediaPlayerModel.tblPlaylist" />
+    <EntitySet Name="tblSongs" EntityType="MediaPlayerModel.tblSong" />
+    <EntitySet Name="tblVideos" EntityType="MediaPlayerModel.tblVideo" />
+    <AssociationSet Name="FK_tblSong_tblMedia" Association="MediaPlayerModel.FK_tblSong_tblMedia">
+      <End Role="tblMedia" EntitySet="tblMedias" />
+      <End Role="tblSong" EntitySet="tblSongs" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tblVideo_tblMedia" Association="MediaPlayerModel.FK_tblVideo_tblMedia">
+      <End Role="tblMedia" EntitySet="tblMedias" />
+      <End Role="tblVideo" EntitySet="tblVideos" />
+    </AssociationSet>
+    <AssociationSet Name="tblPlaylistMapping" Association="MediaPlayerModel.tblPlaylistMapping">
+      <End Role="tblMedia" EntitySet="tblMedias" />
+      <End Role="tblPlaylist" EntitySet="tblPlaylists" />
+    </AssociationSet>
+    <FunctionImport Name="sp_alterdiagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+      <Parameter Name="version" Mode="In" Type="Int32" />
+      <Parameter Name="definition" Mode="In" Type="Binary" />
+    </FunctionImport>
+    <FunctionImport Name="sp_creatediagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+      <Parameter Name="version" Mode="In" Type="Int32" />
+      <Parameter Name="definition" Mode="In" Type="Binary" />
+    </FunctionImport>
+    <FunctionImport Name="sp_dropdiagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_helpdiagramdefinition" ReturnType="Collection(MediaPlayerModel.sp_helpdiagramdefinition_Result)">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_helpdiagrams" ReturnType="Collection(MediaPlayerModel.sp_helpdiagrams_Result)">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_renamediagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+      <Parameter Name="new_diagramname" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="sp_upgraddiagrams" />
+  </EntityContainer>
+  <EntityType Name="tblMedia">
+    <Key>
+      <PropertyRef Name="MId" />
+    </Key>
+    <Property Name="MId" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="TypeId" Type="Int32" Nullable="false" />
+    <Property Name="PlayCount" Type="Int32" />
+    <Property Name="Title" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <NavigationProperty Name="tblSongs" Relationship="MediaPlayerModel.FK_tblSong_tblMedia" FromRole="tblMedia" ToRole="tblSong" />
+    <NavigationProperty Name="tblVideos" Relationship="MediaPlayerModel.FK_tblVideo_tblMedia" FromRole="tblMedia" ToRole="tblVideo" />
+    <NavigationProperty Name="tblPlaylists" Relationship="MediaPlayerModel.tblPlaylistMapping" FromRole="tblMedia" ToRole="tblPlaylist" />
+  </EntityType>
+  <EntityType Name="tblPlaylist">
+    <Key>
+      <PropertyRef Name="PId" />
+    </Key>
+    <Property Name="PId" Type="Int32" Nullable="false" />
+    <Property Name="Name" Type="String" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="IsEditable" Type="Boolean" Nullable="false" />
+    <Property Name="SortOrder" Type="Int32" />
+    <NavigationProperty Name="tblMedias" Relationship="MediaPlayerModel.tblPlaylistMapping" FromRole="tblPlaylist" ToRole="tblMedia" />
+  </EntityType>
+  <EntityType Name="tblSong">
+    <Key>
+      <PropertyRef Name="SId" />
+    </Key>
+    <Property Name="SId" Type="Int32" Nullable="false" />
+    <Property Name="MId" Type="Int32" Nullable="false" />
+    <Property Name="Artist" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="Album" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="Year" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="Genre" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="Picture" Type="Binary" MaxLength="Max" FixedLength="false" />
+    <Property Name="Comments" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <NavigationProperty Name="tblMedia" Relationship="MediaPlayerModel.FK_tblSong_tblMedia" FromRole="tblSong" ToRole="tblMedia" />
+  </EntityType>
+  <EntityType Name="tblVideo">
+    <Key>
+      <PropertyRef Name="VId" />
+    </Key>
+    <Property Name="VId" Type="Int32" Nullable="false" />
+    <Property Name="MId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="tblMedia" Relationship="MediaPlayerModel.FK_tblVideo_tblMedia" FromRole="tblVideo" ToRole="tblMedia" />
+  </EntityType>
+  <Association Name="FK_tblSong_tblMedia">
+    <End Role="tblMedia" Type="MediaPlayerModel.tblMedia" Multiplicity="1" />
+    <End Role="tblSong" Type="MediaPlayerModel.tblSong" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblMedia">
+        <PropertyRef Name="MId" />
+      </Principal>
+      <Dependent Role="tblSong">
+        <PropertyRef Name="MId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tblVideo_tblMedia">
+    <End Role="tblMedia" Type="MediaPlayerModel.tblMedia" Multiplicity="1" />
+    <End Role="tblVideo" Type="MediaPlayerModel.tblVideo" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblMedia">
+        <PropertyRef Name="MId" />
+      </Principal>
+      <Dependent Role="tblVideo">
+        <PropertyRef Name="MId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="tblPlaylistMapping">
+    <End Role="tblMedia" Type="MediaPlayerModel.tblMedia" Multiplicity="*" />
+    <End Role="tblPlaylist" Type="MediaPlayerModel.tblPlaylist" Multiplicity="*" />
+  </Association>
+  <ComplexType Name="sp_helpdiagramdefinition_Result">
+    <Property Type="Int32" Name="version" Nullable="true" />
+    <Property Type="Binary" Name="definition" Nullable="true" />
+  </ComplexType>
+  <ComplexType Name="sp_helpdiagrams_Result">
+    <Property Type="String" Name="Database" Nullable="true" MaxLength="128" />
+    <Property Type="String" Name="Name" Nullable="false" MaxLength="128" />
+    <Property Type="Int32" Name="ID" Nullable="false" />
+    <Property Type="String" Name="Owner" Nullable="true" MaxLength="128" />
+    <Property Type="Int32" Name="OwnerID" Nullable="false" />
+  </ComplexType>
+</Schema>

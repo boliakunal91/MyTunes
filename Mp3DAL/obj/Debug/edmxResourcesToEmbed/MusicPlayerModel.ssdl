@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="MusicPlayerModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="MusicPlayerModelStoreContainer">
+    <EntitySet Name="sysdiagrams" EntityType="MusicPlayerModel.Store.sysdiagrams" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="tblHeaderSession" EntityType="MusicPlayerModel.Store.tblHeaderSession" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="tblMedia" EntityType="MusicPlayerModel.Store.tblMedia" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="tblPlaylist" EntityType="MusicPlayerModel.Store.tblPlaylist" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="tblPlaylistMapping" EntityType="MusicPlayerModel.Store.tblPlaylistMapping" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="tblPlayLog" EntityType="MusicPlayerModel.Store.tblPlayLog" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="FK_tblPlaylistMapping_tblMedia" Association="MusicPlayerModel.Store.FK_tblPlaylistMapping_tblMedia">
+      <End Role="tblMedia" EntitySet="tblMedia" />
+      <End Role="tblPlaylistMapping" EntitySet="tblPlaylistMapping" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tblPlaylistMapping_tblPlaylist" Association="MusicPlayerModel.Store.FK_tblPlaylistMapping_tblPlaylist">
+      <End Role="tblPlaylist" EntitySet="tblPlaylist" />
+      <End Role="tblPlaylistMapping" EntitySet="tblPlaylistMapping" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tblPlayLog_tblMedia" Association="MusicPlayerModel.Store.FK_tblPlayLog_tblMedia">
+      <End Role="tblMedia" EntitySet="tblMedia" />
+      <End Role="tblPlayLog" EntitySet="tblPlayLog" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" Nullable="false" MaxLength="128" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <EntityType Name="tblHeaderSession">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="ColName" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="IsShown" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="tblMedia">
+    <Key>
+      <PropertyRef Name="MId" />
+    </Key>
+    <Property Name="MId" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Location" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Title" Type="nvarchar(max)" />
+    <Property Name="PlayCount" Type="int" />
+    <Property Name="FirstArtist" Type="nvarchar(max)" />
+    <Property Name="FirstComposer" Type="nvarchar(max)" />
+    <Property Name="FirstGenere" Type="nvarchar(max)" />
+    <Property Name="Album" Type="nvarchar(max)" />
+    <Property Name="Year" Type="nvarchar(max)" />
+    <Property Name="Picture" Type="image" />
+    <Property Name="TotalLenghtMins" Type="decimal" Precision="10" Scale="4" />
+    <Property Name="Comment" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="tblPlaylist">
+    <Key>
+      <PropertyRef Name="PId" />
+    </Key>
+    <Property Name="PId" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="PlaylistName" Type="nvarchar(max)" />
+    <Property Name="CreationDateTime" Type="datetime" />
+    <Property Name="Comments" Type="nvarchar(max)" />
+    <Property Name="SongCount" Type="int" />
+  </EntityType>
+  <EntityType Name="tblPlaylistMapping">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="PId" Type="int" Nullable="false" />
+    <Property Name="MId" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="tblPlayLog">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="MId" Type="int" Nullable="false" />
+    <Property Name="TimeStamp" Type="datetime" />
+    <Property Name="Comments" Type="nvarchar(max)" />
+  </EntityType>
+  <Association Name="FK_tblPlaylistMapping_tblMedia">
+    <End Role="tblMedia" Type="MusicPlayerModel.Store.tblMedia" Multiplicity="1" />
+    <End Role="tblPlaylistMapping" Type="MusicPlayerModel.Store.tblPlaylistMapping" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblMedia">
+        <PropertyRef Name="MId" />
+      </Principal>
+      <Dependent Role="tblPlaylistMapping">
+        <PropertyRef Name="MId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tblPlaylistMapping_tblPlaylist">
+    <End Role="tblPlaylist" Type="MusicPlayerModel.Store.tblPlaylist" Multiplicity="1" />
+    <End Role="tblPlaylistMapping" Type="MusicPlayerModel.Store.tblPlaylistMapping" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblPlaylist">
+        <PropertyRef Name="PId" />
+      </Principal>
+      <Dependent Role="tblPlaylistMapping">
+        <PropertyRef Name="PId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tblPlayLog_tblMedia">
+    <End Role="tblMedia" Type="MusicPlayerModel.Store.tblMedia" Multiplicity="1" />
+    <End Role="tblPlayLog" Type="MusicPlayerModel.Store.tblPlayLog" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblMedia">
+        <PropertyRef Name="MId" />
+      </Principal>
+      <Dependent Role="tblPlayLog">
+        <PropertyRef Name="MId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

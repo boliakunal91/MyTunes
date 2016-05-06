@@ -1,0 +1,144 @@
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\MusicPlayer-10112014_0620_RA\Mp3DAL\bin\Debug\Mp3DAL.dll.config
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\MusicPlayer-10112014_0620_RA\Mp3DAL\bin\Debug\Mp3DAL.dll
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\MusicPlayer-10112014_0620_RA\Mp3DAL\bin\Debug\Mp3DAL.pdb
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\MusicPlayer-10112014_0620_RA\Mp3DAL\bin\Debug\EntityFramework.dll
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\MusicPlayer-10112014_0620_RA\Mp3DAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\MusicPlayer-10112014_0620_RA\Mp3DAL\bin\Debug\EntityFramework.xml
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\MusicPlayer-10112014_0620_RA\Mp3DAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\MusicPlayer-10112014_0620_RA\Mp3DAL\obj\Debug\MusicPlayer.Data.csprojResolveAssemblyReference.cache
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\MusicPlayer-10112014_0620_RA\Mp3DAL\obj\Debug\Mp3DAL.dll
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\MusicPlayer-10112014_0620_RA\Mp3DAL\obj\Debug\Mp3DAL.pdb
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\MusicPlayer-10152014_0755\Mp3DAL\bin\Debug\Mp3DAL.dll.config
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\MusicPlayer-10152014_0755\Mp3DAL\bin\Debug\Mp3DAL.dll
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\MusicPlayer-10152014_0755\Mp3DAL\bin\Debug\Mp3DAL.pdb
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\MusicPlayer-10152014_0755\Mp3DAL\bin\Debug\EntityFramework.dll
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\MusicPlayer-10152014_0755\Mp3DAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\MusicPlayer-10152014_0755\Mp3DAL\bin\Debug\EntityFramework.xml
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\MusicPlayer-10152014_0755\Mp3DAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\MusicPlayer-10152014_0755\Mp3DAL\obj\Debug\Mp3DAL.dll
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\MusicPlayer-10152014_0755\Mp3DAL\obj\Debug\Mp3DAL.pdb
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MusicPlayer-Final\Mp3DAL\bin\Debug\Mp3DAL.dll.config
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MusicPlayer-Final\Mp3DAL\bin\Debug\Mp3DAL.dll
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MusicPlayer-Final\Mp3DAL\bin\Debug\Mp3DAL.pdb
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MusicPlayer-Final\Mp3DAL\bin\Debug\EntityFramework.dll
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MusicPlayer-Final\Mp3DAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MusicPlayer-Final\Mp3DAL\bin\Debug\EntityFramework.xml
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MusicPlayer-Final\Mp3DAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MusicPlayer-Final\Mp3DAL\obj\Debug\Mp3DAL.dll
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MusicPlayer-Final\Mp3DAL\obj\Debug\Mp3DAL.pdb
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MusicPlayer-Final\Mp3DAL\obj\Debug\MusicPlayer.Data.csprojResolveAssemblyReference.cache
+C:\Users\Richard\Desktop\MusicPlayer- after playlist delete and other few things\MusicPlayer-Final\Mp3DAL\bin\Debug\Mp3DAL.dll.config
+C:\Users\Richard\Desktop\MusicPlayer- after playlist delete and other few things\MusicPlayer-Final\Mp3DAL\bin\Debug\Mp3DAL.dll
+C:\Users\Richard\Desktop\MusicPlayer- after playlist delete and other few things\MusicPlayer-Final\Mp3DAL\bin\Debug\Mp3DAL.pdb
+C:\Users\Richard\Desktop\MusicPlayer- after playlist delete and other few things\MusicPlayer-Final\Mp3DAL\bin\Debug\EntityFramework.dll
+C:\Users\Richard\Desktop\MusicPlayer- after playlist delete and other few things\MusicPlayer-Final\Mp3DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Richard\Desktop\MusicPlayer- after playlist delete and other few things\MusicPlayer-Final\Mp3DAL\bin\Debug\EntityFramework.xml
+C:\Users\Richard\Desktop\MusicPlayer- after playlist delete and other few things\MusicPlayer-Final\Mp3DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Richard\Desktop\MusicPlayer- after playlist delete and other few things\MusicPlayer-Final\Mp3DAL\obj\Debug\Mp3DAL.dll
+C:\Users\Richard\Desktop\MusicPlayer- after playlist delete and other few things\MusicPlayer-Final\Mp3DAL\obj\Debug\Mp3DAL.pdb
+C:\Users\Richard\Desktop\MusicPlayer- after playlist delete and other few things\MusicPlayer-Final\Mp3DAL\obj\Debug\MusicPlayer.Data.csprojResolveAssemblyReference.cache
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MPlayer_1109_735PM\MPlayer_1109_735PM\MusicPlayer-Final\Mp3DAL\bin\Debug\Mp3DAL.dll.config
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MPlayer_1109_735PM\MPlayer_1109_735PM\MusicPlayer-Final\Mp3DAL\bin\Debug\Mp3DAL.dll
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MPlayer_1109_735PM\MPlayer_1109_735PM\MusicPlayer-Final\Mp3DAL\bin\Debug\Mp3DAL.pdb
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MPlayer_1109_735PM\MPlayer_1109_735PM\MusicPlayer-Final\Mp3DAL\bin\Debug\EntityFramework.dll
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MPlayer_1109_735PM\MPlayer_1109_735PM\MusicPlayer-Final\Mp3DAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MPlayer_1109_735PM\MPlayer_1109_735PM\MusicPlayer-Final\Mp3DAL\bin\Debug\EntityFramework.xml
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MPlayer_1109_735PM\MPlayer_1109_735PM\MusicPlayer-Final\Mp3DAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MPlayer_1109_735PM\MPlayer_1109_735PM\MusicPlayer-Final\Mp3DAL\obj\Debug\MusicPlayer.Data.csprojResolveAssemblyReference.cache
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MPlayer_1109_735PM\MPlayer_1109_735PM\MusicPlayer-Final\Mp3DAL\obj\Debug\Mp3DAL.dll
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MPlayer_1109_735PM\MPlayer_1109_735PM\MusicPlayer-Final\Mp3DAL\obj\Debug\Mp3DAL.pdb
+C:\Users\Richard\Desktop\MP_1110\MP_1110\MusicPlayer-Final\Mp3DAL\bin\Debug\Mp3DAL.dll.config
+C:\Users\Richard\Desktop\MP_1110\MP_1110\MusicPlayer-Final\Mp3DAL\bin\Debug\Mp3DAL.dll
+C:\Users\Richard\Desktop\MP_1110\MP_1110\MusicPlayer-Final\Mp3DAL\bin\Debug\Mp3DAL.pdb
+C:\Users\Richard\Desktop\MP_1110\MP_1110\MusicPlayer-Final\Mp3DAL\bin\Debug\EntityFramework.dll
+C:\Users\Richard\Desktop\MP_1110\MP_1110\MusicPlayer-Final\Mp3DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Richard\Desktop\MP_1110\MP_1110\MusicPlayer-Final\Mp3DAL\bin\Debug\EntityFramework.xml
+C:\Users\Richard\Desktop\MP_1110\MP_1110\MusicPlayer-Final\Mp3DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Richard\Desktop\MP_1110\MP_1110\MusicPlayer-Final\Mp3DAL\obj\Debug\Mp3DAL.dll
+C:\Users\Richard\Desktop\MP_1110\MP_1110\MusicPlayer-Final\Mp3DAL\obj\Debug\Mp3DAL.pdb
+C:\Users\Richard\Desktop\MP_1110_653PM\Mp3DAL\bin\Debug\Mp3DAL.dll.config
+C:\Users\Richard\Desktop\MP_1110_653PM\Mp3DAL\bin\Debug\Mp3DAL.dll
+C:\Users\Richard\Desktop\MP_1110_653PM\Mp3DAL\bin\Debug\Mp3DAL.pdb
+C:\Users\Richard\Desktop\MP_1110_653PM\Mp3DAL\bin\Debug\EntityFramework.dll
+C:\Users\Richard\Desktop\MP_1110_653PM\Mp3DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Richard\Desktop\MP_1110_653PM\Mp3DAL\bin\Debug\EntityFramework.xml
+C:\Users\Richard\Desktop\MP_1110_653PM\Mp3DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Richard\Desktop\MP_1110_653PM\Mp3DAL\obj\Debug\MusicPlayer.Data.csprojResolveAssemblyReference.cache
+C:\Users\Richard\Desktop\MP_1110_653PM\Mp3DAL\obj\Debug\Mp3DAL.dll
+C:\Users\Richard\Desktop\MP_1110_653PM\Mp3DAL\obj\Debug\Mp3DAL.pdb
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MP_1111_543\Mp3DAL\bin\Debug\Mp3DAL.dll.config
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MP_1111_543\Mp3DAL\bin\Debug\Mp3DAL.dll
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MP_1111_543\Mp3DAL\bin\Debug\Mp3DAL.pdb
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MP_1111_543\Mp3DAL\bin\Debug\EntityFramework.dll
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MP_1111_543\Mp3DAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MP_1111_543\Mp3DAL\bin\Debug\EntityFramework.xml
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MP_1111_543\Mp3DAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MP_1111_543\Mp3DAL\obj\Debug\Mp3DAL.dll
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MP_1111_543\Mp3DAL\obj\Debug\Mp3DAL.pdb
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MP_1111_543\Mp3DAL\obj\Debug\MusicPlayer.Data.csprojResolveAssemblyReference.cache
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MP_Iteration2_final\Mp3DAL\bin\Debug\Mp3DAL.dll.config
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MP_Iteration2_final\Mp3DAL\bin\Debug\Mp3DAL.dll
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MP_Iteration2_final\Mp3DAL\bin\Debug\Mp3DAL.pdb
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MP_Iteration2_final\Mp3DAL\bin\Debug\EntityFramework.dll
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MP_Iteration2_final\Mp3DAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MP_Iteration2_final\Mp3DAL\bin\Debug\EntityFramework.xml
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MP_Iteration2_final\Mp3DAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MP_Iteration2_final\Mp3DAL\obj\Debug\Mp3DAL.dll
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 2\MP_Iteration2_final\Mp3DAL\obj\Debug\Mp3DAL.pdb
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration2_final\Mp3DAL\bin\Debug\Mp3DAL.dll.config
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration2_final\Mp3DAL\bin\Debug\Mp3DAL.dll
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration2_final\Mp3DAL\bin\Debug\Mp3DAL.pdb
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration2_final\Mp3DAL\bin\Debug\EntityFramework.dll
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration2_final\Mp3DAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration2_final\Mp3DAL\bin\Debug\EntityFramework.xml
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration2_final\Mp3DAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration2_final\Mp3DAL\obj\Debug\Mp3DAL.dll
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration2_final\Mp3DAL\obj\Debug\Mp3DAL.pdb
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration2_final\Mp3DAL\obj\Debug\MusicPlayer.Data.csprojResolveAssemblyReference.cache
+C:\Users\ccrlan1rra\Desktop\MP_Iteration3_1\MP_Iteration3_1\Mp3DAL\bin\Debug\Mp3DAL.dll.config
+C:\Users\ccrlan1rra\Desktop\MP_Iteration3_1\MP_Iteration3_1\Mp3DAL\bin\Debug\Mp3DAL.dll
+C:\Users\ccrlan1rra\Desktop\MP_Iteration3_1\MP_Iteration3_1\Mp3DAL\bin\Debug\Mp3DAL.pdb
+C:\Users\ccrlan1rra\Desktop\MP_Iteration3_1\MP_Iteration3_1\Mp3DAL\bin\Debug\EntityFramework.dll
+C:\Users\ccrlan1rra\Desktop\MP_Iteration3_1\MP_Iteration3_1\Mp3DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ccrlan1rra\Desktop\MP_Iteration3_1\MP_Iteration3_1\Mp3DAL\bin\Debug\EntityFramework.xml
+C:\Users\ccrlan1rra\Desktop\MP_Iteration3_1\MP_Iteration3_1\Mp3DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ccrlan1rra\Desktop\MP_Iteration3_1\MP_Iteration3_1\Mp3DAL\obj\Debug\MusicPlayer.Data.csprojResolveAssemblyReference.cache
+C:\Users\ccrlan1rra\Desktop\MP_Iteration3_1\MP_Iteration3_1\Mp3DAL\obj\Debug\Mp3DAL.dll
+C:\Users\ccrlan1rra\Desktop\MP_Iteration3_1\MP_Iteration3_1\Mp3DAL\obj\Debug\Mp3DAL.pdb
+C:\Users\Richard\Desktop\MP_Iteration3_1\Mp3DAL\bin\Debug\Mp3DAL.dll.config
+C:\Users\Richard\Desktop\MP_Iteration3_1\Mp3DAL\bin\Debug\Mp3DAL.dll
+C:\Users\Richard\Desktop\MP_Iteration3_1\Mp3DAL\bin\Debug\Mp3DAL.pdb
+C:\Users\Richard\Desktop\MP_Iteration3_1\Mp3DAL\bin\Debug\EntityFramework.dll
+C:\Users\Richard\Desktop\MP_Iteration3_1\Mp3DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Richard\Desktop\MP_Iteration3_1\Mp3DAL\bin\Debug\EntityFramework.xml
+C:\Users\Richard\Desktop\MP_Iteration3_1\Mp3DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Richard\Desktop\MP_Iteration3_1\Mp3DAL\obj\Debug\Mp3DAL.dll
+C:\Users\Richard\Desktop\MP_Iteration3_1\Mp3DAL\obj\Debug\Mp3DAL.pdb
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration3_3\Mp3DAL\bin\Debug\Mp3DAL.dll.config
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration3_3\Mp3DAL\bin\Debug\Mp3DAL.dll
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration3_3\Mp3DAL\bin\Debug\Mp3DAL.pdb
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration3_3\Mp3DAL\bin\Debug\EntityFramework.dll
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration3_3\Mp3DAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration3_3\Mp3DAL\bin\Debug\EntityFramework.xml
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration3_3\Mp3DAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration3_3\Mp3DAL\obj\Debug\MusicPlayer.Data.csprojResolveAssemblyReference.cache
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration3_3\Mp3DAL\obj\Debug\Mp3DAL.dll
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration3_3\Mp3DAL\obj\Debug\Mp3DAL.pdb
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration3_4\Mp3DAL\bin\Debug\Mp3DAL.dll.config
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration3_4\Mp3DAL\bin\Debug\Mp3DAL.dll
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration3_4\Mp3DAL\bin\Debug\Mp3DAL.pdb
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration3_4\Mp3DAL\bin\Debug\EntityFramework.dll
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration3_4\Mp3DAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration3_4\Mp3DAL\bin\Debug\EntityFramework.xml
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration3_4\Mp3DAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration3_4\Mp3DAL\obj\Debug\Mp3DAL.dll
+F:\CSU LB\CECS 543- Advanced Software Engineering\proj\Iteration 3\MP_Iteration3_4\Mp3DAL\obj\Debug\Mp3DAL.pdb
+C:\Users\Richard\Desktop\MP_Iteration3_5\MP_Iteration3_5\Mp3DAL\bin\Debug\Mp3DAL.dll.config
+C:\Users\Richard\Desktop\MP_Iteration3_5\MP_Iteration3_5\Mp3DAL\bin\Debug\Mp3DAL.dll
+C:\Users\Richard\Desktop\MP_Iteration3_5\MP_Iteration3_5\Mp3DAL\bin\Debug\Mp3DAL.pdb
+C:\Users\Richard\Desktop\MP_Iteration3_5\MP_Iteration3_5\Mp3DAL\bin\Debug\EntityFramework.dll
+C:\Users\Richard\Desktop\MP_Iteration3_5\MP_Iteration3_5\Mp3DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Richard\Desktop\MP_Iteration3_5\MP_Iteration3_5\Mp3DAL\bin\Debug\EntityFramework.xml
+C:\Users\Richard\Desktop\MP_Iteration3_5\MP_Iteration3_5\Mp3DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Richard\Desktop\MP_Iteration3_5\MP_Iteration3_5\Mp3DAL\obj\Debug\Mp3DAL.dll
+C:\Users\Richard\Desktop\MP_Iteration3_5\MP_Iteration3_5\Mp3DAL\obj\Debug\Mp3DAL.pdb

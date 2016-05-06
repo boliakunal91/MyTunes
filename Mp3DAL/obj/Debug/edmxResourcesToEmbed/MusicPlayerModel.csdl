@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="MusicPlayerModel" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="MusicPlayerEntities" p1:LazyLoadingEnabled="true">
+    <EntitySet Name="sysdiagrams" EntityType="MusicPlayerModel.sysdiagram" />
+    <EntitySet Name="tblMedias" EntityType="MusicPlayerModel.tblMedia" />
+    <EntitySet Name="tblPlaylists" EntityType="MusicPlayerModel.tblPlaylist" />
+    <EntitySet Name="tblPlaylistMappings" EntityType="MusicPlayerModel.tblPlaylistMapping" />
+    <AssociationSet Name="FK_tblPlaylistMapping_tblMedia" Association="MusicPlayerModel.FK_tblPlaylistMapping_tblMedia">
+      <End Role="tblMedia" EntitySet="tblMedias" />
+      <End Role="tblPlaylistMapping" EntitySet="tblPlaylistMappings" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tblPlaylistMapping_tblPlaylist" Association="MusicPlayerModel.FK_tblPlaylistMapping_tblPlaylist">
+      <End Role="tblPlaylist" EntitySet="tblPlaylists" />
+      <End Role="tblPlaylistMapping" EntitySet="tblPlaylistMappings" />
+    </AssociationSet>
+    <EntitySet Name="tblHeaderSessions" EntityType="MusicPlayerModel.tblHeaderSession" />
+    <EntitySet Name="tblPlayLogs" EntityType="MusicPlayerModel.tblPlayLog" />
+    <AssociationSet Name="FK_tblPlayLog_tblMedia" Association="MusicPlayerModel.FK_tblPlayLog_tblMedia">
+      <End Role="tblMedia" EntitySet="tblMedias" />
+      <End Role="tblPlayLog" EntitySet="tblPlayLogs" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="sysdiagram">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" Nullable="false" MaxLength="128" Unicode="true" FixedLength="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="tblMedia">
+    <Key>
+      <PropertyRef Name="MId" />
+    </Key>
+    <Property Name="MId" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="Location" Type="String" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="Title" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="PlayCount" Type="Int32" />
+    <Property Name="FirstArtist" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="FirstComposer" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="FirstGenere" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="Album" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="Year" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="Picture" Type="Binary" MaxLength="Max" FixedLength="false" />
+    <Property Name="TotalLenghtMins" Type="Decimal" Precision="10" Scale="4" />
+    <NavigationProperty Name="tblPlaylistMappings" Relationship="MusicPlayerModel.FK_tblPlaylistMapping_tblMedia" FromRole="tblMedia" ToRole="tblPlaylistMapping" />
+    <Property Type="String" Name="Comment" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="tblPlayLogs" Relationship="MusicPlayerModel.FK_tblPlayLog_tblMedia" FromRole="tblMedia" ToRole="tblPlayLog" />
+  </EntityType>
+  <EntityType Name="tblPlaylist">
+    <Key>
+      <PropertyRef Name="PId" />
+    </Key>
+    <Property Name="PId" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="PlaylistName" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="CreationDateTime" Type="DateTime" Precision="3" />
+    <Property Name="Comments" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="SongCount" Type="Int32" />
+    <NavigationProperty Name="tblPlaylistMappings" Relationship="MusicPlayerModel.FK_tblPlaylistMapping_tblPlaylist" FromRole="tblPlaylist" ToRole="tblPlaylistMapping" />
+  </EntityType>
+  <EntityType Name="tblPlaylistMapping">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="PId" Type="Int32" Nullable="false" />
+    <Property Name="MId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="tblMedia" Relationship="MusicPlayerModel.FK_tblPlaylistMapping_tblMedia" FromRole="tblPlaylistMapping" ToRole="tblMedia" />
+    <NavigationProperty Name="tblPlaylist" Relationship="MusicPlayerModel.FK_tblPlaylistMapping_tblPlaylist" FromRole="tblPlaylistMapping" ToRole="tblPlaylist" />
+  </EntityType>
+  <Association Name="FK_tblPlaylistMapping_tblMedia">
+    <End Role="tblMedia" Type="MusicPlayerModel.tblMedia" Multiplicity="1" />
+    <End Role="tblPlaylistMapping" Type="MusicPlayerModel.tblPlaylistMapping" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblMedia">
+        <PropertyRef Name="MId" />
+      </Principal>
+      <Dependent Role="tblPlaylistMapping">
+        <PropertyRef Name="MId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tblPlaylistMapping_tblPlaylist">
+    <End Role="tblPlaylist" Type="MusicPlayerModel.tblPlaylist" Multiplicity="1" />
+    <End Role="tblPlaylistMapping" Type="MusicPlayerModel.tblPlaylistMapping" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblPlaylist">
+        <PropertyRef Name="PId" />
+      </Principal>
+      <Dependent Role="tblPlaylistMapping">
+        <PropertyRef Name="PId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="tblHeaderSession">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Type="Int32" Name="ID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="ColName" Nullable="false" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Type="Boolean" Name="IsShown" Nullable="false" />
+  </EntityType>
+  <EntityType Name="tblPlayLog">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Type="Int32" Name="Id" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int32" Name="MId" Nullable="false" />
+    <Property Type="DateTime" Name="TimeStamp" Precision="3" />
+    <Property Type="String" Name="Comments" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="tblMedia" Relationship="MusicPlayerModel.FK_tblPlayLog_tblMedia" FromRole="tblPlayLog" ToRole="tblMedia" />
+  </EntityType>
+  <Association Name="FK_tblPlayLog_tblMedia">
+    <End Type="MusicPlayerModel.tblMedia" Role="tblMedia" Multiplicity="1" />
+    <End Type="MusicPlayerModel.tblPlayLog" Role="tblPlayLog" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblMedia">
+        <PropertyRef Name="MId" />
+      </Principal>
+      <Dependent Role="tblPlayLog">
+        <PropertyRef Name="MId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

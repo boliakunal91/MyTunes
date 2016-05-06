@@ -1,0 +1,66 @@
+C:\Users\hp\Documents\Visual Studio 2012\Projects\Mp3Trial\Mp3Trial\bin\Debug\Mp3Trial.exe.config
+C:\Users\hp\Documents\Visual Studio 2012\Projects\Mp3Trial\Mp3Trial\bin\Debug\Mp3Trial.exe
+C:\Users\hp\Documents\Visual Studio 2012\Projects\Mp3Trial\Mp3Trial\bin\Debug\Mp3Trial.pdb
+C:\Users\hp\Documents\Visual Studio 2012\Projects\Mp3Trial\Mp3Trial\bin\Debug\EntityFramework.dll
+C:\Users\hp\Documents\Visual Studio 2012\Projects\Mp3Trial\Mp3Trial\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hp\Documents\Visual Studio 2012\Projects\Mp3Trial\Mp3Trial\bin\Debug\Mp3DAL.dll
+C:\Users\hp\Documents\Visual Studio 2012\Projects\Mp3Trial\Mp3Trial\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\hp\Documents\Visual Studio 2012\Projects\Mp3Trial\Mp3Trial\bin\Debug\taglib-sharp.dll
+C:\Users\hp\Documents\Visual Studio 2012\Projects\Mp3Trial\Mp3Trial\bin\Debug\Mp3DAL.pdb
+C:\Users\hp\Documents\Visual Studio 2012\Projects\Mp3Trial\Mp3Trial\bin\Debug\EntityFramework.xml
+C:\Users\hp\Documents\Visual Studio 2012\Projects\Mp3Trial\Mp3Trial\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hp\Documents\Visual Studio 2012\Projects\Mp3Trial\Mp3Trial\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\hp\Documents\Visual Studio 2012\Projects\Mp3Trial\Mp3Trial\obj\Debug\Mp3Trial.csprojResolveAssemblyReference.cache
+C:\Users\hp\Documents\Visual Studio 2012\Projects\Mp3Trial\Mp3Trial\obj\Debug\MainWindow.baml
+C:\Users\hp\Documents\Visual Studio 2012\Projects\Mp3Trial\Mp3Trial\obj\Debug\MainWindow.g.cs
+C:\Users\hp\Documents\Visual Studio 2012\Projects\Mp3Trial\Mp3Trial\obj\Debug\App.g.cs
+C:\Users\hp\Documents\Visual Studio 2012\Projects\Mp3Trial\Mp3Trial\obj\Debug\Mp3Trial_MarkupCompile.cache
+C:\Users\hp\Documents\Visual Studio 2012\Projects\Mp3Trial\Mp3Trial\obj\Debug\Mp3Trial.g.resources
+C:\Users\hp\Documents\Visual Studio 2012\Projects\Mp3Trial\Mp3Trial\obj\Debug\Mp3Trial.Properties.Resources.resources
+C:\Users\hp\Documents\Visual Studio 2012\Projects\Mp3Trial\Mp3Trial\obj\Debug\Mp3Trial.csproj.GenerateResource.Cache
+C:\Users\hp\Documents\Visual Studio 2012\Projects\Mp3Trial\Mp3Trial\obj\Debug\Mp3Trial.exe
+C:\Users\hp\Documents\Visual Studio 2012\Projects\Mp3Trial\Mp3Trial\obj\Debug\Mp3Trial.pdb
+C:\Users\Richard\Desktop\MusicPlayer-10102014_1130_RA-2014-10-10\MusicPlayer-10102014_1130_RA\Mp3Trial\bin\Debug\Mp3Trial.exe.config
+C:\Users\Richard\Desktop\MusicPlayer-10102014_1130_RA-2014-10-10\MusicPlayer-10102014_1130_RA\Mp3Trial\obj\Debug\Mp3Trial.csprojResolveAssemblyReference.cache
+C:\Users\Richard\Desktop\MusicPlayer-10102014_1130_RA-2014-10-10\MusicPlayer-10102014_1130_RA\Mp3Trial\obj\Debug\MainWindow.baml
+C:\Users\Richard\Desktop\MusicPlayer-10102014_1130_RA-2014-10-10\MusicPlayer-10102014_1130_RA\Mp3Trial\obj\Debug\MainWindow.g.cs
+C:\Users\Richard\Desktop\MusicPlayer-10102014_1130_RA-2014-10-10\MusicPlayer-10102014_1130_RA\Mp3Trial\obj\Debug\App.g.cs
+C:\Users\Richard\Desktop\MusicPlayer-10102014_1130_RA-2014-10-10\MusicPlayer-10102014_1130_RA\Mp3Trial\obj\Debug\Mp3Trial_MarkupCompile.cache
+C:\Users\Richard\Desktop\MusicPlayer-10102014_1130_RA-2014-10-10\MusicPlayer-10102014_1130_RA\Mp3Trial\obj\Debug\Mp3Trial.g.resources
+C:\Users\Richard\Desktop\MusicPlayer-10102014_1130_RA-2014-10-10\MusicPlayer-10102014_1130_RA\Mp3Trial\obj\Debug\Mp3Trial.Properties.Resources.resources
+C:\Users\Richard\Desktop\MusicPlayer-10102014_1130_RA-2014-10-10\MusicPlayer-10102014_1130_RA\Mp3Trial\obj\Debug\Mp3Trial.csproj.GenerateResource.Cache
+C:\Users\Richard\Desktop\MusicPlayer-10102014_1130_RA-2014-10-10\MusicPlayer-10102014_1130_RA\Mp3Trial\bin\Debug\Mp3Trial.exe
+C:\Users\Richard\Desktop\MusicPlayer-10102014_1130_RA-2014-10-10\MusicPlayer-10102014_1130_RA\Mp3Trial\bin\Debug\Mp3Trial.pdb
+C:\Users\Richard\Desktop\MusicPlayer-10102014_1130_RA-2014-10-10\MusicPlayer-10102014_1130_RA\Mp3Trial\bin\Debug\EntityFramework.dll
+C:\Users\Richard\Desktop\MusicPlayer-10102014_1130_RA-2014-10-10\MusicPlayer-10102014_1130_RA\Mp3Trial\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Richard\Desktop\MusicPlayer-10102014_1130_RA-2014-10-10\MusicPlayer-10102014_1130_RA\Mp3Trial\bin\Debug\Mp3DAL.dll
+C:\Users\Richard\Desktop\MusicPlayer-10102014_1130_RA-2014-10-10\MusicPlayer-10102014_1130_RA\Mp3Trial\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\Richard\Desktop\MusicPlayer-10102014_1130_RA-2014-10-10\MusicPlayer-10102014_1130_RA\Mp3Trial\bin\Debug\taglib-sharp.dll
+C:\Users\Richard\Desktop\MusicPlayer-10102014_1130_RA-2014-10-10\MusicPlayer-10102014_1130_RA\Mp3Trial\bin\Debug\Mp3DAL.pdb
+C:\Users\Richard\Desktop\MusicPlayer-10102014_1130_RA-2014-10-10\MusicPlayer-10102014_1130_RA\Mp3Trial\bin\Debug\EntityFramework.xml
+C:\Users\Richard\Desktop\MusicPlayer-10102014_1130_RA-2014-10-10\MusicPlayer-10102014_1130_RA\Mp3Trial\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Richard\Desktop\MusicPlayer-10102014_1130_RA-2014-10-10\MusicPlayer-10102014_1130_RA\Mp3Trial\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\Richard\Desktop\MusicPlayer-10102014_1130_RA-2014-10-10\MusicPlayer-10102014_1130_RA\Mp3Trial\obj\Debug\Mp3Trial.exe
+C:\Users\Richard\Desktop\MusicPlayer-10102014_1130_RA-2014-10-10\MusicPlayer-10102014_1130_RA\Mp3Trial\obj\Debug\Mp3Trial.pdb
+C:\Users\Richard\Documents\GitHub\MusicPlayer\Mp3Trial\bin\Debug\Mp3Trial.exe.config
+C:\Users\Richard\Documents\GitHub\MusicPlayer\Mp3Trial\obj\Debug\Mp3Trial.exe
+C:\Users\Richard\Documents\GitHub\MusicPlayer\Mp3Trial\obj\Debug\Mp3Trial.pdb
+C:\Users\Richard\Documents\GitHub\MusicPlayer\Mp3Trial\bin\Debug\Mp3Trial.exe
+C:\Users\Richard\Documents\GitHub\MusicPlayer\Mp3Trial\bin\Debug\Mp3Trial.pdb
+C:\Users\Richard\Documents\GitHub\MusicPlayer\Mp3Trial\bin\Debug\EntityFramework.dll
+C:\Users\Richard\Documents\GitHub\MusicPlayer\Mp3Trial\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Richard\Documents\GitHub\MusicPlayer\Mp3Trial\bin\Debug\Mp3DAL.dll
+C:\Users\Richard\Documents\GitHub\MusicPlayer\Mp3Trial\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\Richard\Documents\GitHub\MusicPlayer\Mp3Trial\bin\Debug\taglib-sharp.dll
+C:\Users\Richard\Documents\GitHub\MusicPlayer\Mp3Trial\bin\Debug\Mp3DAL.pdb
+C:\Users\Richard\Documents\GitHub\MusicPlayer\Mp3Trial\bin\Debug\EntityFramework.xml
+C:\Users\Richard\Documents\GitHub\MusicPlayer\Mp3Trial\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Richard\Documents\GitHub\MusicPlayer\Mp3Trial\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\Richard\Documents\GitHub\MusicPlayer\Mp3Trial\obj\Debug\Mp3Trial.csprojResolveAssemblyReference.cache
+C:\Users\Richard\Documents\GitHub\MusicPlayer\Mp3Trial\obj\Debug\MainWindow.baml
+C:\Users\Richard\Documents\GitHub\MusicPlayer\Mp3Trial\obj\Debug\MainWindow.g.cs
+C:\Users\Richard\Documents\GitHub\MusicPlayer\Mp3Trial\obj\Debug\App.g.cs
+C:\Users\Richard\Documents\GitHub\MusicPlayer\Mp3Trial\obj\Debug\Mp3Trial_MarkupCompile.cache
+C:\Users\Richard\Documents\GitHub\MusicPlayer\Mp3Trial\obj\Debug\Mp3Trial.g.resources
+C:\Users\Richard\Documents\GitHub\MusicPlayer\Mp3Trial\obj\Debug\Mp3Trial.Properties.Resources.resources
+C:\Users\Richard\Documents\GitHub\MusicPlayer\Mp3Trial\obj\Debug\Mp3Trial.csproj.GenerateResource.Cache
